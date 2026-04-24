@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+title: 周周周的学习笔记
+description: 涉及IT技术，生活记录，业余爱好，等
+theme: jekyll-theme-cayman # 你当前的主题
+
+# 如果你想自定义导航栏（部分主题支持）
+header_pages:
+  - about.md
+  - contact.md
